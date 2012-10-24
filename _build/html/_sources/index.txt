@@ -1,0 +1,24 @@
+.. Android OS documentation master file, created by
+   sphinx-quickstart on Wed Oct 24 08:42:15 2012.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+
+Introducción
+============
+
+Android es un sistema operativo móvil basado en Linux, que junto con aplicaciones `middleware <#Indice>`_ está enfocado para ser utilizado en dispositivos móviles como teléfonos inteligentes, tabletas, Google TV y otros dispositivos.
+
+.. image:: data/imagenes/Android_logo.png
+    :align: center
+    
+    
+
+.. topic:: Índice:
+
+    .. toctree::
+        :maxdepth: 2
+
+        data/historia.rst
+        data/glosario.rst
+
