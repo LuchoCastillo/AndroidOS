@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #
 # Android OS documentation build configuration file, created by
-# sphinx-quickstart on Wed Oct 24 09:46:16 2012.
+# sphinx-quickstart on Tue Oct 30 21:38:49 2012.
 #
 # This file is execfile()d with the current directory set to its containing dir.
 #
@@ -41,7 +41,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Android OS'
-copyright = u'2012, Basterra - Bertea - Borello - Castillo - Venturi'
+copyright = u'2012, Luciano Castillo'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -169,17 +169,22 @@ htmlhelp_basename = 'AndroidOSdoc'
 
 # -- Options for LaTeX output --------------------------------------------------
 
-# The paper size ('letter' or 'a4').
-#latex_paper_size = 'letter'
+latex_elements = {
+# The paper size ('letterpaper' or 'a4paper').
+#'papersize': 'letterpaper',
 
 # The font size ('10pt', '11pt' or '12pt').
-#latex_font_size = '10pt'
+#'pointsize': '10pt',
+
+# Additional stuff for the LaTeX preamble.
+#'preamble': '',
+}
 
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
   ('index', 'AndroidOS.tex', u'Android OS Documentation',
-   u'Basterra - Bertea - Borello - Castillo - Venturi', 'manual'),
+   u'Luciano Castillo', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -196,9 +201,6 @@ latex_documents = [
 # If true, show URL addresses after external links.
 #latex_show_urls = False
 
-# Additional stuff for the LaTeX preamble.
-#latex_preamble = ''
-
 # Documents to append as an appendix to all manuals.
 #latex_appendices = []
 
@@ -212,5 +214,29 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'androidos', u'Android OS Documentation',
-     [u'Basterra - Bertea - Borello - Castillo - Venturi'], 1)
+     [u'Luciano Castillo'], 1)
 ]
+
+# If true, show URL addresses after external links.
+#man_show_urls = False
+
+
+# -- Options for Texinfo output ------------------------------------------------
+
+# Grouping the document tree into Texinfo files. List of tuples
+# (source start file, target name, title, author,
+#  dir menu entry, description, category)
+texinfo_documents = [
+  ('index', 'AndroidOS', u'Android OS Documentation',
+   u'Luciano Castillo', 'AndroidOS', 'One line description of project.',
+   'Miscellaneous'),
+]
+
+# Documents to append as an appendix to all manuals.
+#texinfo_appendices = []
+
+# If false, no module index is generated.
+#texinfo_domain_indices = True
+
+# How to display URL addresses: 'footnote', 'no', or 'inline'.
+#texinfo_show_urls = 'footnote'
