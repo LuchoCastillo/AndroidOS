@@ -2,6 +2,11 @@
 Características
 ===============
 
+.. image:: imagenes/multitarea.png
+    :scale: 80 %
+    :align: center
+
+
 * Código abierto.
 * Núcleo basado en el Kernel de Linux.
 * Adaptable a muchas pantallas y resoluciones.
@@ -15,11 +20,6 @@ Características
 * Bluetooth.
 * Google Talk desde su versión HoneyComb, para realizar videollamadas.
 * Multitarea real de aplicaciones.
-
-.. image:: imagenes/multitarea.png
-    :scale: 80 %
-    :align: center
-
 
 
 Arquitectura
