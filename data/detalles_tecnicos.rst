@@ -10,13 +10,13 @@ Administración del CPU
     :align: center
     
 
-* :Kernel: El núcleo o kernel proporciona el acceso a los distintos elementos del hardware del dispositivo. Ofrece distintos servicios a las superiores como son los controladores odrivers para el hardware, la gestión de procesos, el sistema de archivos y el acceso a la gestión de la memoria.
+* **Kernel:** El núcleo o kernel proporciona el acceso a los distintos elementos del hardware del dispositivo. Ofrece distintos servicios a las superiores como son los controladores odrivers para el hardware, la gestión de procesos, el sistema de archivos y el acceso a la gestión de la memoria.
 
-* :Middleware: El middleware es el conjunto de módulos que hacen posible la propia existencia de aplicaciones para móviles. Es totalmente transparente para el usuario y ofrece servicios claves como el motor de mensajera y comunicaciones, códecs multimedia,intérpretes de páginas web, gestión del dispositivo y seguridad. 
+* **Middleware:** El middleware es el conjunto de módulos que hacen posible la propia existencia de aplicaciones para móviles. Es totalmente transparente para el usuario y ofrece servicios claves como el motor de mensajera y comunicaciones, códecs multimedia,intérpretes de páginas web, gestión del dispositivo y seguridad. 
 
-* :Aplicaciones: El entorno de ejecución de aplicaciones consiste en un gestor de aplicaciones y un conjunto de interfaces programables abiertas y programables por parte de los desarrolladores para facilitar la creación de software.
+* **Aplicaciones:** El entorno de ejecución de aplicaciones consiste en un gestor de aplicaciones y un conjunto de interfaces programables abiertas y programables por parte de los desarrolladores para facilitar la creación de software.
 
-* :Interfaz de usuario: Las interfaces de usuario facilitan la interacción con el usuario y el diseño de la presentación visual de la aplicación. Los servicios que incluye son el de componentes gráficos (botones, pantallas, listas, etc.) y el del marco de interacción.
+* **Interfaz de usuario:** Las interfaces de usuario facilitan la interacción con el usuario y el diseño de la presentación visual de la aplicación. Los servicios que incluye son el de componentes gráficos (botones, pantallas, listas, etc.) y el del marco de interacción.
 
 Aparte de estas capas también existe una familia de aplicaciones nativas del teléfono que suelen incluir los menús.
 
@@ -107,12 +107,12 @@ tipo de red, estado de la conexión, gestión de números de teléfono, etc.
 
 Las principales clases implicadas son:
 
-* :NeighboringCellInfo: proporciona información de la celda más cercana.
-* :PhoneNumberUtils: clase de ayuda para la gestión de Strings telefónicos.
-* :PhoneStateListener: clase que gestiona los cambios de estado del teléfono.
-* :SMSManager: operaciones de SMS.
-* :SMSMessage: mensaje SMS.
-* :TelephonyManager: Acceso a los servicios de telefonía del dispositivo.
+* **NeighboringCellInfo:** proporciona información de la celda más cercana.
+* **PhoneNumberUtils:** clase de ayuda para la gestión de Strings telefónicos.
+* **PhoneStateListener:** clase que gestiona los cambios de estado del teléfono.
+* **SMSManager:** operaciones de SMS.
+* **SMSMessage:** mensaje SMS.
+* **TelephonyManager:** Acceso a los servicios de telefonía del dispositivo.
 
 
 Bluetooth
