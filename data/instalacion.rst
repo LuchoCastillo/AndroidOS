@@ -60,3 +60,14 @@ Al finalizar la instalación, se nos brindará la opción de reiniciar el equipo
 .. image:: imagenes/instalacion6.png
     :align: center
 
+
+Instalación de Android en Máquina virtual
+=========================================
+
+.. image:: imagenes/virtualbox.png
+    :align: center
+
+
+Para instalar Android en una máquina virtual "VirtualBox", visitá el siguiente tutorial:
+
+* http://www.softwarelibre.ulpgc.es/node/181
