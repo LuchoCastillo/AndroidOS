@@ -194,11 +194,3 @@ Debido a la flexibilidad de Android podemos conectarle dispositivos de entrada o
 Con él podremos controlar diferentes dispositivos como el iPad o la Playstation 3, e incluso el ordenador.
 
 El único requisito para para poder utilizar BlueCtrl, es que es indispensable tener el terminal rooteado.
-
-
-
-.. image:: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
-    :align: center
-
-
-Esta página (por `Alumnos del ITS Villada <https://github.com/LuchoCastillo/AndroidOS/>`_) se encuentra bajo una `Licencia Creative Commons Atribución-CompartirIgual 3.0 Unported <http://creativecommons.org/licenses/by-sa/3.0/deed.es>`_.
