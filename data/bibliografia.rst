@@ -13,3 +13,4 @@ Bibliografía
 * http://es.scribd.com/doc/54464357/Trabajo-de-Sistema-Operativo-Android
 * http://www.consejosgratis.es/todo-sobre-sistema-operativo-android/
 * http://es.scribd.com/doc/57049365/Informe-de-Trabajo-Sistema-Operativo-ANDROID
+* http://blog.mp3.es/instalacion-de-android-para-pc/
