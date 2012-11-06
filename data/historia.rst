@@ -10,7 +10,7 @@ Tanto el libro como la película se centran en un grupo de androides llamados re
 Origen
 ======
 
-Android comenzó en octubre del año 2008 cuando vio por primera vez la luz el primer `smartphone <https://androidos.readthedocs.org/en/latest/data/glosario/#smartphone>`_ equipado con este sistema operativo, T-Mobile G1, un `smartphone <https://androidos.readthedocs.org/en/latest/data/glosario/#smartphone>`_ fabricado por HTC y desarrollado junto con Google.
+Android comenzó en octubre del año 2008 cuando vio por primera vez la luz el primer `smartphone <https://androidos.readthedocs.org/en/latest/data/glosario/#smartphones>`_ equipado con este sistema operativo, T-Mobile G1, un `smartphone <https://androidos.readthedocs.org/en/latest/data/glosario/#smartphones>`_ fabricado por HTC y desarrollado junto con Google.
 
 Días antes de este lanzamiento comercial, el 23 de septiembre del 2008, Google celebraba una rueda de prensa donde se presentaba este dispositivo junto con la versión 1.0 de Android.
 
