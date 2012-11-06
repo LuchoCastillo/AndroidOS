@@ -28,6 +28,15 @@ SQLite
 Un motor de bases de datos relacionales de gran alcance y ligero disponible para todas las aplicaciones.
 
 
+WebKit
+======
+
+WebKit es una plataforma para aplicaciones que funciona como base para el navegador web Safari, Google Chrome, Epiphany, Maxthon, Midori,Qupzilla entre otros. Está basado originalmente en el motor de renderizado KHTML del navegador web del proyecto KDE, Konqueror.
+
+Para más información:
+(http://es.wikipedia.org/wiki/WebKit)
+
+
 Smartphones
 ===========
 
