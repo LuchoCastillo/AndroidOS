@@ -7,7 +7,7 @@ Familia Nexus
 
 La familia NEXUS es una gama de dispositivos móviles diseñados por Google con el único propósito de ofrecer una experiencia “pura” de Android, es decir, el software de Android de una forma pura, sin agregados de las compañías que los venden y/o producen. 
 
-Estos dispositivos saben ser de un rendimiento excepcional frente a sus rivales. Uno de ellos fue elegido como el mejor dispositivo para desarrollo de software de Android. Nexus ha diseñado `smartphones <#>`_, `tablets <#>`_ y un reproductor multimedia. Estos son:
+Estos dispositivos saben ser de un rendimiento excepcional frente a sus rivales. Uno de ellos fue elegido como el mejor dispositivo para desarrollo de software de Android. Nexus ha diseñado `smartphones <https://androidos.readthedocs.org/en/latest/data/glosario/#smartphones>`_, `tablets <https://androidos.readthedocs.org/en/latest/data/glosario/#tablets>`_ y un reproductor multimedia. Estos son:
 
 Smartphones
 -----------
