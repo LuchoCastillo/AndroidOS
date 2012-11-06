@@ -22,3 +22,4 @@ Contenido:
     data/primeros_pasos.rst
     data/glosario.rst
     data/bibliografia.rst
+    data/licencia.rst
