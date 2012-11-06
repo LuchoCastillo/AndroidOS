@@ -10,7 +10,7 @@ Tanto el libro como la película se centran en un grupo de androides llamados re
 Origen
 ======
 
-Android comenzó en octubre del año 2008 cuando vio por primera vez la luz el primer smartphone equipado con este sistema operativo, T-Mobile G1, un smartphone fabricado por HTC y desarrollado junto con Google.
+Android comenzó en octubre del año 2008 cuando vio por primera vez la luz el primer `smartphone <https://androidos.readthedocs.org/en/latest/data/glosario/#smartphone>`_ equipado con este sistema operativo, T-Mobile G1, un `smartphone <https://androidos.readthedocs.org/en/latest/data/glosario/#smartphone>`_ fabricado por HTC y desarrollado junto con Google.
 
 Días antes de este lanzamiento comercial, el 23 de septiembre del 2008, Google celebraba una rueda de prensa donde se presentaba este dispositivo junto con la versión 1.0 de Android.
 
@@ -19,7 +19,7 @@ Días antes de este lanzamiento comercial, el 23 de septiembre del 2008, Google 
     :align: center
     
 
-Android era un sistema operativo que estaba desarrollando una compañía de nombre Android Inc. y que fue adquirida por Google en julio del año 2005. Desde entonces siempre que se habla de este sistema operativo se hace referencia a la compañía del buscador aunque es la `Open Handset Alliance <#>`_.
+Android era un sistema operativo que estaba desarrollando una compañía de nombre Android Inc. y que fue adquirida por Google en julio del año 2005. Desde entonces siempre que se habla de este sistema operativo se hace referencia a la compañía del buscador aunque es la `Open Handset Alliance <https://androidos.readthedocs.org/en/latest/data/glosario/#open-handset-alliance>`_.
 
 
 Adquisición por parte de Google
@@ -222,7 +222,7 @@ Generalmente cada actualización del sistema es desarrollada bajo un nombre en c
 
 
 * Lanzado el 22 Febrero 2011.
-* Mejor soporte para tablets.
+* Mejor soporte para `tablets <https://androidos.readthedocs.org/en/latest/data/glosario/#tablets>`_.
 * Escritorio 3D con widgets rediseñados.
 * Sistema multitarea mejorado.
 * Mejoras en el navegador web predeterminado, entre lo que destaca la navegación por pestañas, autorelleno de formularios, sincronización de favoritos con Google Chrome y navegación privada.
@@ -230,7 +230,7 @@ Generalmente cada actualización del sistema es desarrollada bajo un nombre en c
 * Mejor soporte para redes Wi-Fi, así como guardar una configuración independiente para cada SSID.
 * Añade soporte para una gran variedad de periféricos y accesorios con conexión USB: teclados, ratones,hubs, dispositivos de juego y cámaras. digitales. Cuando un accesorio está conectado, el sistema busca la aplicación necesaria y ofrece su ejecución.
 * Los widgets pueden redimensionarse de forma manual sin la limitación del número de cuadros que tenga cada escritorio.
-* Se añade soporte opcional para redimensionar correctamente las aplicaciones inicialmente creadas para móvil para que se vean bien en Tablets.
+* Se añade soporte opcional para redimensionar correctamente las aplicaciones inicialmente creadas para móvil para que se vean bien en `Tablets <https://androidos.readthedocs.org/en/latest/data/glosario/#tablets>`_.
 
 
 4.0 - Ice Cream Sandwich (Sándwich de Helado)
@@ -242,7 +242,7 @@ Generalmente cada actualización del sistema es desarrollada bajo un nombre en c
 
 
 * Lanzado el 19 Octubre 2011.
-* Versión que unifica el uso en cualquier dispositivo, tanto en teléfonos, tablets, televisores, netbooks, etc.
+* Versión que unifica el uso en cualquier dispositivo, tanto en teléfonos, `tablets <https://androidos.readthedocs.org/en/latest/data/glosario/#tablets>`_, televisores, netbooks, etc.
 * Interfaz limpia y moderna llamada "Holo" con una nueva fuente llamada "Roboto", muy al estilo de Honeycomb.
 * Opción de utilizar los botones virtuales en la interfaz de usuario, en lugar de los botones táctiles capacitivos.
 * Soporte de aceleración gráfica por hardware, lo que significa que la interfaz podrá ser manejada y dibujada por la GPU y aumentando notablemente su rapidez, su respuesta y evidentemente, la experiencia de usuario.
