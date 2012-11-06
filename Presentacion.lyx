@@ -1,0 +1,1146 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass beamer
+\begin_preamble
+\usetheme {Frankfurt}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language spanish
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Android OS
+\end_layout
+
+\begin_layout Author
+Basterra - Bertea - Borello - Castillo - Venturi
+\end_layout
+
+\begin_layout Date
+27/10/12
+\end_layout
+
+\begin_layout Institute
+ITS Villada
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout BeginFrame
+Introducción
+\end_layout
+
+\begin_layout Block
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{¿Qué es Android?}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Block
+Android es un sistema operativo móvil desarrollado por la Open Handset Alliance.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Es uno de los más conocidos junto con iOS de Apple.
+\end_layout
+
+\begin_layout Itemize
+Está basado en Linux, enfocado para ser utilizado en dispositivos móviles
+ como teléfonos inteligentes, tablets, Google TV y otros dispositivos.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename data/imagenes/logo.png
+	scale 50
+
+\end_inset
+
+
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Logo de Android
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout BeginFrame
+Historia
+\end_layout
+
+\begin_layout FrameSubtitle
+Versiones
+\end_layout
+
+\begin_layout ExampleBlock
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{1.0 - Apple Pie}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+No se utilizó comercialmente.
+\end_layout
+
+\end_deeper
+\begin_layout Pause
+
+\end_layout
+
+\begin_layout ExampleBlock
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{1.1 - Banana Bread}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Corrigieron errores de la 1.0.
+\end_layout
+
+\begin_layout Itemize
+No se utilizó comercialmente.
+\end_layout
+
+\end_deeper
+\begin_layout BeginFrame
+Historia
+\end_layout
+
+\begin_layout FrameSubtitle
+Versiones
+\end_layout
+
+\begin_layout ExampleBlock
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{1.5 - Cupcake}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Basado en el kernel de Linux 2.6.27.
+ 
+\end_layout
+
+\begin_layout Itemize
+Posibilidad de grabar y reproducir videos a través del modo camcorder.
+ 
+\end_layout
+
+\begin_layout Itemize
+Capacidad de subir videos a YouTube e imágenes a Picasa.
+\end_layout
+
+\begin_layout Itemize
+Teclado con predicción de texto.
+ 
+\end_layout
+
+\begin_layout Itemize
+Soporte para Bluetooth.
+ 
+\end_layout
+
+\begin_layout Itemize
+Capacidad de conexión automática para conectar a auricular Bluetooth.
+ 
+\end_layout
+
+\begin_layout Itemize
+Nuevos widgets y carpetas.
+ 
+\end_layout
+
+\begin_layout Itemize
+Transiciones de pantalla animadas.
+\end_layout
+
+\end_deeper
+\begin_layout BeginFrame
+Historia
+\end_layout
+
+\begin_layout FrameSubtitle
+Versiones
+\end_layout
+
+\begin_layout ExampleBlock
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{1.6 - Donut}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Basado en el kernel de Linux 2.6.29.
+\end_layout
+
+\begin_layout Itemize
+La galería ahora permite a los usuarios seleccionar varias fotos para eliminarla
+s.
+\end_layout
+
+\begin_layout Itemize
+Experiencia de búsqueda mejorada
+\end_layout
+
+\begin_layout Itemize
+Actualización de soporte para CDMA/EVDO, 802.1x, VPN y TTS(Text-To-Speech).
+\end_layout
+
+\begin_layout Itemize
+Mejoras de velocidad en las aplicaciones de búsqueda y cámara.
+\end_layout
+
+\begin_layout Itemize
+Framework de gestos y herramienta de desarrollo GestureBuilder.
+\end_layout
+
+\begin_layout Itemize
+Navegación gratuita turn-by-turn de Google.
+\end_layout
+
+\end_deeper
+\begin_layout BeginFrame
+Historia
+\end_layout
+
+\begin_layout FrameSubtitle
+Versiones
+\end_layout
+
+\begin_layout ExampleBlock
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{2.0 / 2.1 - Éclair}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Velocidad de hardware optimizada.
+\end_layout
+
+\begin_layout Itemize
+Soporte para más tamaños de pantalla y resoluciones.
+ 
+\end_layout
+
+\begin_layout Itemize
+Interfaz de usuario renovada.
+ 
+\end_layout
+
+\begin_layout Itemize
+Mejoras en Google Maps 3.1.2.
+\end_layout
+
+\begin_layout Itemize
+Zoom digital.
+\end_layout
+
+\begin_layout Itemize
+MotionEvent mejorado para captura de eventos multi-touch.
+\end_layout
+
+\begin_layout Itemize
+Bluetooth 2.1.
+\end_layout
+
+\end_deeper
+\begin_layout BeginFrame
+Historia
+\end_layout
+
+\begin_layout FrameSubtitle
+Versiones
+\end_layout
+
+\begin_layout ExampleBlock
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{2.2 - Froyo}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Optimización general del sistema Android, la memoria y el rendimiento.
+ 
+\end_layout
+
+\begin_layout Itemize
+Mejoras en la velocidad de las aplicaciones, gracias a la implementación
+ de JIT.
+\end_layout
+
+\begin_layout Itemize
+Lanzador de aplicaciones mejorado con accesos directos a las aplicaciones
+ de teléfono y Browser.
+\end_layout
+
+\begin_layout Itemize
+Funcionalidad de Wi-Fi hotspot y tethering por USB.
+\end_layout
+
+\begin_layout Itemize
+Actualización del Market con actualizaciones automáticas.
+\end_layout
+
+\begin_layout Itemize
+Cambio rápido entre múltiples idiomas de teclado y sus diccionarios.
+\end_layout
+
+\end_deeper
+\begin_layout BeginFrame
+Historia
+\end_layout
+
+\begin_layout FrameSubtitle
+Versiones
+\end_layout
+
+\begin_layout ExampleBlock
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{2.3 - Gingerbread}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Actualización del diseño de la interfaz de usuario.
+ 
+\end_layout
+
+\begin_layout Itemize
+Soporte para pantallas extra grandes y resoluciones WXGA y mayores.
+ 
+\end_layout
+
+\begin_layout Itemize
+Soporte nativo para telefonía VoIP SIP.
+ 
+\end_layout
+
+\begin_layout Itemize
+Soporte para reproducción de videos WebM/VP8 y decodificación de audio AAC.
+ 
+\end_layout
+
+\begin_layout Itemize
+Teclado multi-táctil rediseñado.
+\end_layout
+
+\begin_layout Itemize
+Soporte mejorado para desarrollo de código nativo.
+\end_layout
+
+\begin_layout Itemize
+Cambio de sistema de archivos de YAFFS a ext4.
+\end_layout
+
+\end_deeper
+\begin_layout BeginFrame
+Historia
+\end_layout
+
+\begin_layout FrameSubtitle
+Versiones
+\end_layout
+
+\begin_layout ExampleBlock
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{3.0 / 3.1 / 3.2 - Honeycomb}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Escritorio 3D con widgets rediseñados.
+\end_layout
+
+\begin_layout Itemize
+Sistema multitarea mejorado.
+ 
+\end_layout
+
+\begin_layout Itemize
+Soporte para videochat mediante Google Talk.
+ 
+\end_layout
+
+\begin_layout Itemize
+Mejor soporte para redes Wi-Fi, así como guardar una configuración independiente
+ para cada SSID.
+ 
+\end_layout
+
+\begin_layout Itemize
+Los widgets pueden redimensionarse de forma manual sin la limitación del
+ número de cuadros que tenga cada escritorio.
+\end_layout
+
+\begin_layout Itemize
+Se añade soporte opcional para redimensionar correctamente las aplicaciones
+ inicialmente creadas para móvil para que se vean bien en Tablets.
+\end_layout
+
+\end_deeper
+\begin_layout BeginFrame
+Historia
+\end_layout
+
+\begin_layout FrameSubtitle
+Versiones
+\end_layout
+
+\begin_layout ExampleBlock
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{4.0 - Ice Cream Sandwich}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Versión que unifica el uso en cualquier dispositivo, tanto en teléfonos,
+ tablets, televisores, netbooks, etc.
+ 
+\end_layout
+
+\begin_layout Itemize
+Interfaz limpia y moderna llamada “Holo” con una nueva fuente llamada “Roboto”,
+ muy al estilo de Honeycomb.
+\end_layout
+
+\begin_layout Itemize
+Reconocimiento de voz del usuario.
+\end_layout
+
+\begin_layout Itemize
+Reconocimiento facial, lo que haría que puedas cambiar la vista.
+\end_layout
+
+\begin_layout Itemize
+Un único y nuevo framework para las aplicaciones.
+ 
+\end_layout
+
+\begin_layout Itemize
+Soporte nativo del contenedor MKV.
+ 
+\end_layout
+
+\begin_layout Itemize
+Soporte nativo para el uso de Stylus (lápiz táctil).
+\end_layout
+
+\end_deeper
+\begin_layout BeginFrame
+Historia
+\end_layout
+
+\begin_layout FrameSubtitle
+Versiones
+\end_layout
+
+\begin_layout ExampleBlock
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{4.1 - Jelly Bean}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Mejora de la fluidez y de la estabilidad gracias al proyecto “Project Butter”.
+ 
+\end_layout
+
+\begin_layout Itemize
+Ajuste automático de widgets cuando se añaden al escritorio, cambiando su
+ tamaño y lugar para permitir que los nuevos elementos se puedan colocar.
+ 
+\end_layout
+
+\begin_layout Itemize
+Dictado por voz mejorado con posibilidad de utilizarlo sin conexión a Internet.
+ 
+\end_layout
+
+\begin_layout Itemize
+Cifrado de aplicaciones.
+\end_layout
+
+\begin_layout Itemize
+Google Chrome se convierte en el navegador por defecto de Android.
+\end_layout
+
+\begin_layout Itemize
+Gestual Mode para las personas discapacitadas visualmente.
+\end_layout
+
+\begin_layout Itemize
+Pequeños cambios en la interfaz, como la nueva barra de búsquedas.
+\end_layout
+
+\end_deeper
+\begin_layout BeginFrame
+Historia
+\end_layout
+
+\begin_layout FrameSubtitle
+Versiones
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename data/imagenes/linea-de-tiempo.jpg
+	scale 65
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Evolución de versiones
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout BeginFrame
+Características
+\end_layout
+
+\begin_layout Itemize
+Código abierto.
+\end_layout
+
+\begin_layout Itemize
+Núcleo basado en el Kernel de Linux.
+ 
+\end_layout
+
+\begin_layout Itemize
+Adaptable a muchas pantallas y resoluciones.
+ 
+\end_layout
+
+\begin_layout Itemize
+Utiliza SQLite para el almacenamiento de datos.
+ 
+\end_layout
+
+\begin_layout Itemize
+Ofrece diferentes formas de mensajería.
+\end_layout
+
+\begin_layout Itemize
+Navegador web basado en WebKit incluido.
+\end_layout
+
+\begin_layout Itemize
+Soporte de Java y muchos formatos multimedia.
+\end_layout
+
+\begin_layout Itemize
+Soporte de HTML, HTML5, Adobe Flash Player, etc.
+\end_layout
+
+\begin_layout BeginFrame
+Características
+\end_layout
+
+\begin_layout Itemize
+Incluye un emulador de dispositivos, herramientas para depuración de memoria
+ y análisis del rendimiento del software.
+ 
+\end_layout
+
+\begin_layout Itemize
+Catálogo de aplicaciones gratuitas o pagas en el que pueden ser descargadas
+ e instaladas (Google Play).
+ 
+\end_layout
+
+\begin_layout Itemize
+Bluetooth.
+ 
+\end_layout
+
+\begin_layout Itemize
+Google Talk desde su versión HoneyComb, para realizar videollamadas.
+ 
+\end_layout
+
+\begin_layout Itemize
+Multitarea real de aplicaciones.
+\end_layout
+
+\begin_layout BeginFrame
+Características
+\end_layout
+
+\begin_layout AlertBlock
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{Kernel}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout AlertBlock
+Android depende de Linux para los servicios base del sistema como seguridad,
+ gestión de memoria, gestión de procesos, pila de red y modelo de controladores.
+\end_layout
+
+\begin_layout Pause
+
+\end_layout
+
+\begin_layout AlertBlock
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{Máquina Virtual Dalvik}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout AlertBlock
+En lugar de utilizar una tradicional máquina virtual Java (VM), tales como
+ Java ME (Java Mobile Edition), Android utiliza su propia máquina virtual
+ personalizado diseñado para asegurar que la multitarea se ejecuta de manera
+ eficiente en un único dispositivo.
+\end_layout
+
+\begin_layout Pause
+
+\end_layout
+
+\begin_layout AlertBlock
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{Administración de tareas}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Automatic Task Killer 
+\end_layout
+
+\begin_layout Itemize
+Task Manager 
+\end_layout
+
+\begin_layout Itemize
+Advanced Task Killer 
+\end_layout
+
+\end_deeper
+\begin_layout BeginFrame
+Características
+\end_layout
+
+\begin_layout AlertBlock
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{Sistema de archivos}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout AlertBlock
+Con la aparición en el mercado del móvil Nexus S Android comenzó a utilizar
+ el sistema de archivos llamado Ext4, que ofrece:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Soporte de volúmenes de hasta 1024 PiB.
+\end_layout
+
+\begin_layout Itemize
+Menor uso del CPU.
+ 
+\end_layout
+
+\begin_layout Itemize
+Mejoras en la velocidad de lectura y escritura.
+\end_layout
+
+\end_deeper
+\begin_layout Pause
+
+\end_layout
+
+\begin_layout AlertBlock
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{Manejo de RAM}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout AlertBlock
+Android asegura la respuesta de la aplicación, deteniendo y matando a los
+ procesos que obstaculizan la fluidez y libera recursos para las aplicaciones
+ de mayor prioridad.
+\end_layout
+
+\begin_layout AlertBlock
+Cada aplicación Android se ejecuta en un proceso independiente dentro de
+ su propia instancia de Dalvik, renunciando a toda responsabilidad de la
+ memoria y la gestión de procesos.
+\end_layout
+
+\begin_layout BeginFrame
+Características
+\end_layout
+
+\begin_layout AlertBlock
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{Sistemas de protección}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout AlertBlock
+Google ha revelado que cuenta con un sistema de protección denominado “Bouncer”,
+ que detecta aplicaciones con código malicioso en la misma plataforma una
+ vez que son subidas.
+\end_layout
+
+\begin_layout Pause
+
+\end_layout
+
+\begin_layout AlertBlock
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{Sistema de comunicaciones}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Wifi: El paquete android.net.wifi provee los mecanismos por los cuales una
+ aplicación Android puede acceder a la pila Wifi del sistema.
+\end_layout
+
+\begin_layout Enumerate
+Telefonía: La API android.telephony proporciona recursos para acceder a la
+ información básica del teléfono, tal como el tipo de red, estado de la
+ conexión, gestión de números de teléfono, etc.
+\end_layout
+
+\begin_layout Enumerate
+Bluetooth: La API de Android soporta Bluetooth desde la versión 2.0.
+\end_layout
+
+\end_deeper
+\begin_layout BeginFrame
+Características
+\end_layout
+
+\begin_layout AlertBlock
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{Programas de sistema}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout AlertBlock
+Ya existen 700.000 aplicaciones disponibles para descargar en dispositivos
+ Android, según ha confirmado Google.
+\end_layout
+
+\begin_layout AlertBlock
+El número de aplicaciones disponibles en una plataforma es un importante
+ factor a tener en cuenta para determinar su importancia.
+\end_layout
+
+\begin_layout Pause
+
+\end_layout
+
+\begin_layout AlertBlock
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{El sistema de E/S}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout AlertBlock
+Debido a la flexibilidad de Android podemos conectarle dispositivos de entrada
+ o salida muy facilmente y por diversos medios.
+ Un ejemplo es a través de la aplicación BlueCtrl permite controlar todos
+ los dispositivos que soporten Bluetooth mediante el uso de la pantalla
+ táctil y el teclado del teminal Android como dispositivos de entrada.
+\end_layout
+
+\begin_layout BeginFrame
+Características
+\end_layout
+
+\begin_layout AlertBlock
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{Administración de usuarios}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout AlertBlock
+Para crear diferentes cuentas de usuario en Android se puede utilizar la
+ aplicación SwitchMe, que crea diferentes perfiles según querramos (incluyendo
+ aplicaciones, ajustes y datos) que se almacenan en el terminal y entre
+ los cuales se pueden cambiar fácilmente.
+ De este modo:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Se puede crear una cuenta privada protegida con contraseña.
+\end_layout
+
+\begin_layout Itemize
+Podes utilizar esta aplicación para crear perfiles públicos con las apps
+ que tu quieras.
+\end_layout
+
+\begin_layout Itemize
+Se puede ahorrar energía corriendo un perfil con poco consumo de recursos.
+ 
+\end_layout
+
+\begin_layout Itemize
+Crear un perfil para testear aplicaciones.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout BeginFrame
+Bibliografía
+\end_layout
+
+\begin_layout Block
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Block
+\begin_inset CommandInset href
+LatexCommand href
+name "http://androidos.rtfd.org/"
+target "http://androidos.rtfd.org/"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Pause
+
+\end_layout
+
+\begin_layout Block
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{Licencia}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Block
+Este trabajo (realizado por Basterra, Agustín - Bertea, Agustín - Borello,
+ Ignacio - Castillo, Luciano - Venturi, Agustín) se encuentra bajo una 
+\begin_inset CommandInset href
+LatexCommand href
+name "Licencia Creative Commons Atribución-CompartirIgual 3.0 Unported"
+target "http://creativecommons.org/licenses/by-sa/3.0/deed.es"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout EndFrame
+
+\end_layout
+
+\end_body
+\end_document
