@@ -14,11 +14,3 @@ Bibliografía
 * http://www.consejosgratis.es/todo-sobre-sistema-operativo-android/
 * http://es.scribd.com/doc/57049365/Informe-de-Trabajo-Sistema-Operativo-ANDROID
 * http://blog.mp3.es/instalacion-de-android-para-pc/
-
-
-
-.. image:: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
-    :align: center
-
-
-Esta página (por `Alumnos del ITS Villada <https://github.com/LuchoCastillo/AndroidOS/>`_) se encuentra bajo una `Licencia Creative Commons Atribución-CompartirIgual 3.0 Unported <http://creativecommons.org/licenses/by-sa/3.0/deed.es>`_.
