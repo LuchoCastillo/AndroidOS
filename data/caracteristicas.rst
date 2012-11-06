@@ -76,11 +76,3 @@ Uno de los elementos clave de Android es la **máquina virtual de Dalvik**.
 Todo el hardware de Android y acceso a los servicios del sistema se gestiona mediante Dalvik como un nivel intermedio. 
 
 Mediante el uso de una máquina virtual para organizar la ejecución de aplicaciones, los desarrolladores tienen una capa de abstracción que asegura que nunca tendrán que preocuparse de una aplicación de hardware en particular.
-
-
-
-.. image:: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
-    :align: center
-
-
-Esta página (por `Alumnos del ITS Villada <https://github.com/LuchoCastillo/AndroidOS/>`_) se encuentra bajo una `Licencia Creative Commons Atribución-CompartirIgual 3.0 Unported <http://creativecommons.org/licenses/by-sa/3.0/deed.es>`_.
