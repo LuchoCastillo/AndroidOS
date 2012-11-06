@@ -23,6 +23,8 @@ Contenido:
     data/glosario.rst
     data/bibliografia.rst
 
+
+
 .. image:: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
     :align: center
 
