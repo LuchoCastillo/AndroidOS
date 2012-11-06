@@ -27,4 +27,4 @@ Contenido:
     :align: center
 
 
-Esta página (por `Alumnos del ITS Villada <"https://github.com/LuchoCastillo/AndroidOS/">`_) se encuentra bajo una `Licencia Creative Commons Atribución-CompartirIgual 3.0 Unported <"http://creativecommons.org/licenses/by-sa/3.0/deed.es">`_.
+Esta página (por `Alumnos del ITS Villada "https://github.com/LuchoCastillo/AndroidOS/"`_) se encuentra bajo una `Licencia Creative Commons Atribución-CompartirIgual 3.0 Unported <"http://creativecommons.org/licenses/by-sa/3.0/deed.es">`_.
