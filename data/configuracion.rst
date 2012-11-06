@@ -116,3 +116,11 @@ Desventajas
 * Posibilidad de recibir actualizaciones automáticas. Ya no saltará el mensaje de que tu teléfono tiene una actualización, deberás buscar una ROM con dicha actualización.
 
 * Pérdida de la garantía de tu teléfono. La empresa no se hace responsable de daños que pueda sufrir. Eso si, el proceso root en la mayoría de los casos se puede revertir.
+
+
+
+.. image:: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
+    :align: center
+
+
+Esta página (por `Alumnos del ITS Villada <https://github.com/LuchoCastillo/AndroidOS/>`_) se encuentra bajo una `Licencia Creative Commons Atribución-CompartirIgual 3.0 Unported <http://creativecommons.org/licenses/by-sa/3.0/deed.es>`_.
