@@ -59,11 +59,3 @@ Tablets
 Es un tipo de computadora portátil, de mayor tamaño que un teléfono inteligente o una PDA, integrado en una pantalla táctil (sencilla o multitáctil) con la que se interactúa primariamente con los dedos o una pluma stylus (pasiva o activa), sin necesidad de teclado físico ni ratón. 
 
 Estos últimos se ven reemplazados por un teclado virtual y, en determinados modelos, por una mini-trackball integrada en uno de los bordes de la pantalla. Hoy en día son muy usados como agenda electrónica y también para trabajo, ya que uno puede leer archivos de PDF, .txt, etc, y también editar documentos.
-
-
-
-.. image:: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
-    :align: center
-
-
-Esta página (por `Alumnos del ITS Villada <https://github.com/LuchoCastillo/AndroidOS/>`_) se encuentra bajo una `Licencia Creative Commons Atribución-CompartirIgual 3.0 Unported <http://creativecommons.org/licenses/by-sa/3.0/deed.es>`_.
